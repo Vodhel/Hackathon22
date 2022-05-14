@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mlkit_code_scanner_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/mlkit_code_scanner_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mlkit_code_scanner_sample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/internal/mlkit_code_scanner_sample.internal.iml" filepath="$PROJECT_DIR$/.idea/modules/internal/mlkit_code_scanner_sample.internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.iml" filepath="$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-878632746/mlkit_code_scanner_sample.internal.chooserx.unitTest.iml" />
+    </modules>
+  </component>
+</project>

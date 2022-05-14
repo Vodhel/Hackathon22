@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:barcode-scanning-common:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0885fcc8f753805bfe9e716af7544b2/transformed/jetified-barcode-scanning-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/60f1038e34a54cd87138a3f4803828ee/transformed/jetified-barcode-scanning-common-17.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0501d475f0ffed8d9a262ab3f9f81bd1/transformed/jetified-barcode-scanning-common-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0501d475f0ffed8d9a262ab3f9f81bd1/transformed/jetified-barcode-scanning-common-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0501d475f0ffed8d9a262ab3f9f81bd1/transformed/jetified-barcode-scanning-common-17.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/barcode-scanning-common/17.0.0/e9879cc94f84f3da96a1cdc1e004c445d0ffa969/barcode-scanning-common-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
